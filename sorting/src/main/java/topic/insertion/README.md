@@ -6,5 +6,5 @@
 * 例如[8,11,9,1,6], 從11開始, 左邊一位是8比自己小, 故把11放在[0+1]的位置. 接著從9開始, 11比9大, 所以把11往右移, 接者比較8比左小, 就把9放在[0+1]的位置.
 
 ## Big O
-* Time complexity: $O(n^2)$
-* Space complexity: $O(1)$
+* Time complexity: O(n^2)
+* Space complexity: O(1)

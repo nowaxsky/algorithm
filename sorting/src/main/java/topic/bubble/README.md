@@ -6,5 +6,5 @@
 * 遍歷每一個數字後得解.
 
 ## Big O
-* Time complexity: $O(n^2)$
-* Space complexity: $O(1)$
+* Time complexity: O(n^2)
+* Space complexity: O(1)
