@@ -1,3 +1,3 @@
 # algorithm
 
-This is a study for Java concurrency and multithread.
+This is a study for algorithm based on Java.
