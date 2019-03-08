@@ -3,11 +3,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>chuck.dwd</groupId>
-	<artifactId>algorithm-sorting</artifactId>
+	<artifactId>algorithm-sorting-searching</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>algorithm-sorting</name>
+	<name>algorithm-sorting-searching</name>
 	
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
