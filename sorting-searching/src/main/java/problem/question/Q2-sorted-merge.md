@@ -4,9 +4,12 @@ Given two sorted arrays, A and B, where A has a large enough buffer at the end t
 Merge B into A in sorted order.
 
 ## example
-Input : a[] = {10, 12, 13, 14, 18, NA, NA, NA, NA, NA}   
-        b[] = {16, 17, 19, 20, 22};
-Output : a[] = {10, 12, 13, 14, 16, 17, 18, 19, 20, 22}
+Input:<br>
+a[] = {10, 12, 13, 14, 18, NA, NA, NA, NA, NA}<br>
+b[] = {16, 17, 19, 20, 22}<br>
+<br>
+Output:<br>
+a[] = {10, 12, 13, 14, 16, 17, 18, 19, 20, 22}
 
 ## Solution
 

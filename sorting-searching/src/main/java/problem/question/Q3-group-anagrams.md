@@ -3,8 +3,11 @@
 Write a method to sort an array of strings so that all the anagrams are next to each other.
 
 ## example
-Input: {"cat", "dog", "tac", "god", "act"} 
-Output: {"cat", "tac", "act", "dog", "god"}
+Input:<br>
+{"cat", "dog", "tac", "god", "act"}<br>
+<br> 
+Output:<br>
+{"cat", "tac", "act", "dog", "god"}
 
 ## Solution
 
