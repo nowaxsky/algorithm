@@ -6,5 +6,5 @@
 * 注意這個方法需要記錄最小值的位置而非記錄最小值, 否則無法交換.
 
 ## Big O
-* Time complexity: $O(n^2)$
-* Space complexity: $O(1)$
+* Time complexity: O(n^2)
+* Space complexity: O(1)
